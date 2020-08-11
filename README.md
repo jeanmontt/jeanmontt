@@ -14,7 +14,7 @@
  ---
 
 ## 🌱 Atualmente estou aprendendo:
-| ![HTML5 Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/html5.png?raw=true "HTML5") | ![CSS3 Image](./assets/css3.png "CSS3") | ![Javascript Image](./assets/javascript.png "JavaScript") | ![ReactJS](./assets/react.png "ReactJS") | ![Node.js Image](./assets/nodejs.png "Node.js") | ![SQL Image](./assets/sql.png "SQL") | ![PostgreSQL Image](./assets/postgre.png "SQL") |
+| ![HTML5 Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/html5.png?raw=true "HTML5") | ![CSS3 Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/css3.png?raw=true "CSS3") | ![Javascript Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/javascript.png?raw=true "JavaScript") | ![ReactJS](https://github.com/jeanmontt/jeanmontt/blob/master/assets/react.png?raw=true "ReactJS") | ![Node.js Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/nodejs.png?raw=true "Node.js") | ![SQL Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/sql.png?raw=true "SQL") | ![PostgreSQL Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/postgre.png?raw=true "PostgreSQL") |
 |:--:| :--:|:--:|:--:| :--:| :--:| :--:|
 | *HTML5* | *CSS3* | *JavaScript* | *ReactJS* | *Node.js* | *SQL* | *PostgreSQL* | 
 
@@ -22,7 +22,7 @@
 
 ## 🚀 Tecnologias que tenho como meta aprender:
 
-| ![React Native Image](./assets/react.png "React Native") | ![TypeScript Image](./assets/typescript.png "TypeScript") |
+| ![React Native Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/react.png?raw=true "React Native") | ![TypeScript Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/typescript.png?raw=trueg "TypeScript") |
 |:--:|:--:|
 | *React Native* | *TypeScript* |
 
