@@ -14,7 +14,7 @@
  ---
 
 ## 🌱 Atualmente estou aprendendo:
-| ![HTML5 Image](./assets/html5.png "HTML5") | ![CSS3 Image](./assets/css3.png "CSS3") | ![Javascript Image](./assets/javascript.png "JavaScript") | ![ReactJS](./assets/react.png "ReactJS") | ![Node.js Image](./assets/nodejs.png "Node.js") | ![SQL Image](./assets/sql.png "SQL") | ![PostgreSQL Image](./assets/postgre.png "SQL") |
+| ![HTML5 Image](https://github.com/jeanmontt/jeanmontt/blob/master/assets/html5.png?raw=true "HTML5") | ![CSS3 Image](./assets/css3.png "CSS3") | ![Javascript Image](./assets/javascript.png "JavaScript") | ![ReactJS](./assets/react.png "ReactJS") | ![Node.js Image](./assets/nodejs.png "Node.js") | ![SQL Image](./assets/sql.png "SQL") | ![PostgreSQL Image](./assets/postgre.png "SQL") |
 |:--:| :--:|:--:|:--:| :--:| :--:| :--:|
 | *HTML5* | *CSS3* | *JavaScript* | *ReactJS* | *Node.js* | *SQL* | *PostgreSQL* | 
 
