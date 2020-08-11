@@ -5,8 +5,6 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-darkblue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jeanmontt@hotmail.com)](mailto:jeanmontt@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmontteiro@gmail.com)](mailto:jeanmontteiro@gmail.com)
 
----
-
 ## Olá! ✌️😊
 
  Sou um amante de tecnologias, gosto de estar neste universo de algoritmos, me sinto bem codando e resolvendo problemas. No momento apaixonado por JavaScript e todo seu ecossistema. <br /> <br /> À procura de uma primeira oportunidade profissional para acelerar meu crescimento, poder demonstrar meu potencial e agregar valor a uma boa equipe. Tento sempre manter uma atitude positiva frente às dificuldades e estou preparado para novos desafios! 
